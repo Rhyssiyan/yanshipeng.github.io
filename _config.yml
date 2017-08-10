@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -42,3 +43,5 @@ sass:
 
 
 images: '/assets/images'
+=======
+>>>>>>> 9498d65e6e5610e207dad175c6fd9c83aae4b61b
