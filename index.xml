@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shipeng Yan on Shipeng Yan</title>
-    <link>https://rhyssiyan.com/</link>
+    <link>/</link>
     <description>Recent content in Shipeng Yan on Shipeng Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Few-shot Learning with Spatial-Task Attention Network</title>
-      <link>https://rhyssiyan.com/publication/fewshot_eccv2018/</link>
+      <link>/publication/fewshot_eccv2018/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rhyssiyan.com/publication/fewshot_eccv2018/</guid>
+      <guid>/publication/fewshot_eccv2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rhyssiyan.com/tags/</link>
+      <link>/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rhyssiyan.com/tags/</guid>
+      <guid>/tags/</guid>
       <description></description>
     </item>
     
