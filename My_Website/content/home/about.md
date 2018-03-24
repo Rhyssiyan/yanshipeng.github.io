@@ -31,6 +31,6 @@ weight = 5
 # Biography
 
 
-I am currently a postgraduate student of computer science at ShangtaiTech [VENUS](http://sist.shanghaitech.edu.cn/faculty/hexm/) Group. His research interests include video segmentation, one/few-shot learning and reinforcement learning. 
+I am currently a postgraduate student of computer science at ShangtaiTech [VENUS](http://sist.shanghaitech.edu.cn/faculty/hexm/) Group. My research interests include few-shot learning, meta-learning, computer vision.
 
-My surpervisor is Prof. [Xuming He](https://xmhe.bitbucket.io/) at ShanghaiTech. I got my BS degree from Harbin Institute of Technology, 2017 under the supervision of Prof. [Yang Li](http://homepage.hit.edu.cn/pages/liyang). My CV can be found [here](https://www.rhyssiyan.com/cv_yan.pdf).
+My surpervisor is Prof. [Xuming He](https://xmhe.bitbucket.io/) at ShanghaiTech. I got my BS degree from Harbin Institute of Technology under the supervision of Prof. [Yang Li](http://homepage.hit.edu.cn/pages/liyang). My CV can be found [here](https://www.rhyssiyan.com/cv_yan.pdf).
